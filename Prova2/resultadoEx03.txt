@@ -1,0 +1,19 @@
+Propriedades de p1:
+Data: 12/06/2023
+Hora: 10:30:00
+Nome do Paciente: João
+Nome do Médico: Dr. Silva
+
+Propriedades de p2:
+Data: 12/06/2023
+Hora: 13:33:00
+Nome do Paciente: null
+Nome do Médico: null
+
+Propriedades de p1 (após alterações):
+Data: 12/06/2023
+Hora: 12:20:00
+Nome do Paciente: João
+Nome do Médico: Tuler
+
+Quantidade de consultas: 2
